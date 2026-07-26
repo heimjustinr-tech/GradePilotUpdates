@@ -1,10 +1,10 @@
 {
   "product": "GradePilot Professional",
-  "version": "0.17.36",
+  "version": "0.17.37",
   "channel": "stable",
-  "downloadUrl": "https://github.com/heimjustinr-tech/GradePilotUpdates/releases/download/v0.17.36/GradePilotProfessional.exe",
-  "sha256": "3D2CFA026D9E34F9CC9063270BC1AF872EA068AF33E112669E01E017F31FCC50",
+  "downloadUrl": "https://github.com/heimjustinr-tech/GradePilotUpdates/releases/download/v0.17.37/GradePilotProfessional.exe",
+  "sha256": "0CF995A0B06A377A8E06FDA01BDB4FFAA5B858F26EC7AF94A45698AF380A812A",
   "fileName": "GradePilotProfessional.exe",
-  "releaseNotes": "Fix update restart loop: retry EXE replace, log apply-update.log, visible failure console. If updating from 0.17.35 and restart fails, close GradePilot and replace the EXE from the release download once.",
-  "publishedUtc": "2026-07-26T19:26:05.1137060Z"
+  "releaseNotes": "GradePilot Professional 0.17.37",
+  "publishedUtc": "2026-07-26T20:29:09.3147547Z"
 }
