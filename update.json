@@ -1,10 +1,10 @@
 {
   "product": "GradePilot Professional",
-  "version": "0.18.146",
+  "version": "0.18.147",
   "channel": "stable",
-  "downloadUrl": "https://github.com/heimjustinr-tech/GradePilotUpdates/releases/download/v0.18.146/GradePilotProfessional.exe",
-  "sha256": "FD89435BC584233B9C9F82B75569D4878EB187E817E7BB09E993181319C3B3CB",
+  "downloadUrl": "https://github.com/heimjustinr-tech/GradePilotUpdates/releases/download/v0.18.147/GradePilotProfessional.exe",
+  "sha256": "50A4D3C7B17D157E98708637BB03247650DB42A0D08844ED5D01455CF9EB9FD1",
   "fileName": "GradePilotProfessional.exe",
-  "releaseNotes": "GradePilot Professional 0.18.146",
-  "publishedUtc": "2026-10-11T17:18:17.6605595Z"
+  "releaseNotes": "GradePilot Professional 0.18.147",
+  "publishedUtc": "2026-10-11T17:32:02.5260169Z"
 }
